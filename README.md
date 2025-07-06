@@ -28,3 +28,4 @@ I successfully built and tested a live collaborative editor where multiple users
 This task was a challenging but rewarding experience that pushed me to think about systems design, full-stack communication, and the real-world use cases of WebSockets. It prepared me for building scalable, interactive applications in the real world.
 
 #OUTPUT
+<img width="1079" height="649" alt="Image" src="https://github.com/user-attachments/assets/479ffa52-aa13-4b1a-a667-f17b875d7f02" />
